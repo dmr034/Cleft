@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy Bypass -File C:\Users\dougr\AppData\Roaming\npm\nodemon.ps1
